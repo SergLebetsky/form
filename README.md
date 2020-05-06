@@ -1,2 +1,2 @@
 # form
-https://serglebetsky.github.io/form/.
+https://serglebetsky.github.io/form/
